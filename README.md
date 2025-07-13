@@ -26,8 +26,8 @@ To uncover key business insights such as:
 
 ## 📁 Files Included
 
-- `Platos_Pizza_Dashboard.pbix` – Power BI file
-- `raw_data.xlsx` – (optional) source data
+- `Platos_pizza_project.pbix` – Power BI file
+- `raw_data.CSV` – source data
 - `screenshot1.png` – Dashboard visuals
 
 ## 📸 Preview
