@@ -1,8 +1,8 @@
 # Plato's Pizza Dashboard 🍕
 
-This is an interactive Power BI dashboard I created to analyze sales data for **Plato's Pizza**.
+This is an interactive single page Power BI dashboard I created to analyze sales data for **Plato's Pizza**.
 
-## 📊 Purpose
+## Purpose
 
 To uncover key business insights such as:
 - Pizza production during peak hours
@@ -11,32 +11,27 @@ To uncover key business insights such as:
 - Seating capacity utilization
 - Average order value
 
-## 🔧 Tools Used
+## Tools Used
 
 - Power BI
 - Power query
 - DAX and visualizations
 
-## 🧠 Key Insights
+## Key Insights
 
 - Over 100% seating utilization during 12–1 PM
 - Classic pizzas are the top sellers
 - Worst selling pizza has just small size
 - Most customers prefer dine-in during lunch hours
 
-## 📁 Files Included
+## Files Included
 
 - `Platos_pizza_project.pbix` – Power BI file
 - `raw_data.CSV` – source data
 - `screenshot1.png` – Dashboard visuals
 
-## 📸 Preview
+## Preview
 
 ![Dashboard Screenshot](Screenshot%202025-06-30%20144037.png)
 
-
-
----
-
-Feel free to reach out if you want to collaborate or see more of my data projects!
 
